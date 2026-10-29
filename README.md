@@ -10,5 +10,5 @@ Presidente de LexCorp
 
 <details>
   <summary>Aliados conocidos</summary>
-  Magneto, Mystique, Brainiac
+  Magneto, Mystique, Brainiac y Lex Luthor
 </details>
